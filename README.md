@@ -8,4 +8,6 @@
 * `18100205.csv`, `IRSTCB01CAM156N.csv`, and `nhpi_with_interest_rate_1981_2023.csv` contain 1981-2023 housing and economic information which we sourced from Statistics Canada, merged, then filtered for the 3 cities we were most interested in: Vancouver, Montreal, and Toronto.
 * The `Extracted_Cities` folder contains the 3 city-level datasets we created.
 
+## Project Report
+
 The PDF file `TayChenJiangNguyenLi-stat443project.pdf` is our final report.
